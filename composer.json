@@ -9,5 +9,15 @@
             "email": "josephldaigle@yahoo.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "Php2fa\\":        "src/",
+            "Php2fa\\Tests\\": "Tests/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^2.16",
+        "phpunit/phpunit": "^9"
+    }
 }

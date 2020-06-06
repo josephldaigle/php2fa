@@ -1,0 +1,13 @@
+{
+    "name": "php-2fa/php-2fa",
+    "description": "An open source two-factor authentication library for PHP.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joe Daigle",
+            "email": "josephldaigle@yahoo.com"
+        }
+    ],
+    "require": {}
+}
